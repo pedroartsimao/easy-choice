@@ -1,0 +1,44 @@
+{
+    "restaurants": [
+        {
+            "code": "1",
+            "name": "Outback"
+        },
+        {
+            "code": "2",
+            "name": "Kangaroo Steak House"
+        },
+        {
+            "code": "3",
+            "name": "Hooro"
+        },
+        {
+            "code": "4",
+            "name": "Big Kahuna"
+        },
+        {
+            "code": "5",
+            "name": "Kebabel"
+        },
+        {
+            "code": "6",
+            "name": "Joey Steakhouse"
+        },
+        {
+            "code": "7",
+            "name": "Chez Mis"
+        },
+        {
+            "code": "8",
+            "name": "North Bar & Grill"
+        },
+        {
+            "code": "9",
+            "name": "Admiral’s Place"
+        },
+        {
+            "code": "10",
+            "name": "Cantaloup"
+        }
+    ]
+}
